@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
+Siamese LSTM,0.7256,0.5915,0.8121,0.6844,0.8178
+SVM Baseline,0.7788,0.6945,0.7077,0.701,0.8549
